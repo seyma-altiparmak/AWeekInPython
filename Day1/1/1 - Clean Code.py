@@ -7,7 +7,7 @@
 
 #Code that stays away from complex structure.
 #polymorphism
-#Configure and Dynamic code writing.
+#Configure and Dynamic code writing. (DO NOT)
 #correct naming
 #Descriptive comment lines
 #Continuous-Tested : Test results
