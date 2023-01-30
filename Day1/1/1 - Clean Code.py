@@ -19,3 +19,5 @@
      # Immobility
      # Needless Complexity , Needless Repetition
      # Opacity (Hard-to-Read)
+
+# Helps to organize programming operations = IDE

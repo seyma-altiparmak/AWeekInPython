@@ -1,16 +1,50 @@
-# This is a sample Python script.
+#PRINT#
+#FOR : FILE --- PRINT FUNCTION
+import sys 
 
-# Press Shift+F10 to execute it or replace it with your code.
-# Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
+#Print-Functions:
+a = 2001
+b = 1968
 
+# print("")
 
-def print_hi(name):
-    # Use a breakpoint in the code line below to debug your script.
-    print(f'Hi, {name}')  # Press Ctrl+F8 to toggle the breakpoint.
+#sep = "only string"
+print(a,b,sep="-")
+#OUTPUT:
+    # 2001-1968 
 
+#end
+print(a,b,end="-")
+#OUTPUT:
+    # 2001 1968-
 
-# Press the green button in the gutter to run the script.
-if __name__ == '__main__':
-    print_hi('PyCharm')
+#file
+print(a,b,file=sys.stdout)
 
-# See PyCharm help at https://www.jetbrains.com/help/pycharm/
+#flush = TRUE & FALSE
+print(a,b,flush="flush")
+
+# print('') 
+print('Python is a "special" language.')
+
+# print(""" """)
+print(""" 
+
+░░▒░░█░
+░░▒░█
+░░░█
+░░█░░░░███████
+░██░░░██▓▓███▓██▒
+██░░░█▓▓▓▓▓▓▓█▓████
+██░░██▓▓▓(◐)▓█▓█▓█
+███▓▓▓█▓▓▓▓▓█▓█▓▓▓▓█
+▀██▓▓█░██▓▓▓▓██▓▓▓▓▓█
+░▀██▀░░█▓▓▓▓▓▓▓▓▓▓▓▓▓█
+░░░░▒░░░█▓▓▓▓▓█▓▓▓▓▓▓█
+░░░░▒░░░█▓▓▓▓█▓█▓▓▓▓▓█
+░▒░░▒░░░█▓▓▓█▓▓▓█▓▓▓▓█
+░▒░░▒░░░█▓▓▓█░░░█▓▓▓█
+░▒░░▒░░██▓██░░░██▓▓██
+████████████████████████
+
+""")
