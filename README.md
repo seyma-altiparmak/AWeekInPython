@@ -9,11 +9,14 @@
     -> https://www.w3schools.com/python/ref_func_print.asp
     -> https://textkool.com/tr/text-art/love
     -> https://python-istihza.yazbel.com/input.html#input-fonksiyonu
-    ->
+    -> https://www.w3schools.com/python/python_for_loops.asp
+
 
 # Day2
     Instructor = Battal Koc
     2. OOP-1 / OOP-2
+    Solving:
+    -> https://www.w3schools.com/python/exercise.asp?filename=exercise_for_loops2
 # Day3
     Instructor = Battal Koc
     3. SQLite Database
