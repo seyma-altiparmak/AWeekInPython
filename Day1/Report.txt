@@ -1,0 +1,10 @@
+Day 1:
+-> tutorials watched
+-> articles read
+-> experimented up to loops.
+The day passed with my mastery of the python language in general.
+Of course I can't be an expert in a week, but my progress was satisfactory (for me).
+I respect Python for its ease of writing.
+I'm still inclined to C# let's see if this one week will change that.
+I'm trying to master Syntax.
+Day 2 is my goal to gain complete dominance and learn OOP.

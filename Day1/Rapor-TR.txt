@@ -1,0 +1,10 @@
+Gün 1 :
+-> eğitimler izlendi
+-> makaleler okundu
+-> döngülere kadar deneme yapıldı.
+Gün genel olarak python diline hakim olmamla geçti. 
+Elbette bir haftada uzman olamam ancak ilerlemem tatmin ediciydi (benim için).
+Python'a yazılış kolaylığından dolayı saygı duyuyorum.
+Hala yatkınlığım C# bakalım bu bir hafta bunu değiştirecek mi?
+Syntax'a hakim olmaya çalışıyorum.
+2. Gün tam hakimiyet sağlamak ve OOP öğrenmek hedefimdir.
