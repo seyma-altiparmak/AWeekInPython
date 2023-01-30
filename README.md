@@ -4,28 +4,21 @@
 # Day1
     Instructor = Battal Koc
     1. Data Types, Outputs, Get Data, "if - elif - else", Operators, Loops, String Operations, Escape Shortcuts, Mid-Level Data Types, Error Handling, High-Level String Operations, High-Level Integer Operations, File Operations, High-Level Functions, Moduls.
-    ----------------------------------------------------------------------------------------
 # Day2
     Instructor = Battal Koc
     2. OOP-1 / OOP-2
-    -----------------------------------------------------------------------------------------
 # Day3
     Instructor = Battal Koc
     3. SQLite Database
-    -----------------------------------------------------------------------------------------
 # Day4
     Instructor = Battal Koc
     4.WhatsApp Bots
-    -----------------------------------------------------------------------------------------
 # Day5
     Instructor = Battal Koc
     5.Instagram Bots
-    -----------------------------------------------------------------------------------------
 # Day6
     Instructor = 
     a.
-    -----------------------------------------------------------------------------------------
 # Day7
     Instructor = 
     b.
-    -----------------------------------------------------------------------------------------
