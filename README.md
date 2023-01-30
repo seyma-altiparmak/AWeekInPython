@@ -2,7 +2,7 @@
  I am trying to learn python by working in my spare time for a week. The log is filed and my progress level is made available for tracking. ++Git/GitHub Used.
  -------------------------------------------------------------------------------------------
 # Day1
-    Instructor = Battal Koc
+    Instructor = Battal Koc (esp. calculator1)
     1. Data Types, Outputs, Get Data, "if - elif - else", Operators, Loops, String Operations, Escape Shortcuts, Mid-Level Data Types, Error Handling, High-Level String Operations, High-Level Integer Operations, File Operations, High-Level Functions, Moduls.
     Resources:
     -> https://python-istihza.yazbel.com/print.html
