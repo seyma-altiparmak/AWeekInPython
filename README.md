@@ -17,6 +17,11 @@
     2. OOP-1 / OOP-2
     Solving:
     -> https://www.w3schools.com/python/exercise.asp?filename=exercise_for_loops2
+    Resources:
+    -> https://www.geeksforgeeks.org/__init__-in-python/
+    -> https://www.udacity.com/blog/2021/11/__init__-in-python-an-overview.html
+    -> https://realpython.com/python-super/
+    
 # Day3
     Instructor = Battal Koc
     3. SQLite Database
