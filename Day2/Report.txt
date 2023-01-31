@@ -1,0 +1,31 @@
+Day 2 :
+I watched OOP videos today, but I don't think it's very effective on me.
+I understand the Class structure but the "_init_" structure
+I couldn't understand the constructor setup parts...
+That's a huge miss!
+Since I was not satisfied with the OOP tutorials, I started w3schools.com -> solving python tests.
+By the way, the second question seems wrong.
+I learned from w3school that the """""" structure is multiple lines of #.
+As for naming, I learned that '-' is forbidden. (My ignorance) :(
+I learned that to define a global it is enough to type global (It felt like in heaven).
+I had no idea about tuple, still don't. I am looking now:
+immutable data type -- (I'll add the source right away) -> in README.md
+---------------NUMBERS---------------
+The converter to complex number is just complex, it still works wonders.
+---------------STRINGS---------------
+len(str) : find the length of the string.
+txt[0] : textin the first element
+any whitespace = .strip()
+.upper() .lower()
+.replace("H","J") placeholder = {}
+-------------------------------------
+0 = False
+1 = True
+-------------------------------------
+add = append
+------------------------------------
+
+Comments,Variables,Data Types ,Numbers,Strings,Booleans,Operators
+(Remained.)
+
+See you in my free time tomorrow... 🙌

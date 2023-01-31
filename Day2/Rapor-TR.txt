@@ -1,0 +1,31 @@
+Gün 2 :
+Bugün OOP videolarını izledim ancak benim üzerimde çok da etkili olduğunu düşünmüyorum.
+Class yapısını anladım ancak "_init_" yapısı 
+constructor kurma kısımlarını anlayamadım...
+Bu çok büyük eksik demek!
+OOP derslerinden tatmin olamadığım için w3schools.com -> python testlerini çözmeye başladım.
+Bu arada ikinci soru yanlış gibi geldi.
+w3schooldan """""" yapısının #'ın çoklu satırlık hali olduğunu öğrendim.
+isimlendirme konusunda ise '-' nin yasak olduğunu öğrendim. (Cehaletim) :(
+global tanımlamak için global yazmanın yeterli olduğunu öğrendim (Bu cennette gibi hissettirdi).
+tuple hakkında hiçbir fikrim yoktu hala yok. Hemen bakıyorum:
+immutable data type -- (hemen kaynağı ekleyeyim) -> README.md içinde
+---------------NUMBERS---------------
+complex sayıya çevirici sadece complex'miş yine harikalar yatıyor.
+---------------STRINGS---------------
+len(str) : string uzunluğunu bulmak.
+txt[0] : ilk elemanı textin
+any whitespace = .strip()
+.upper()	.lower()
+.replace("H","J")	placeholder = {}
+-------------------------------------
+0 = False
+1 = True
+-------------------------------------
+add = append
+------------------------------------
+
+Comments,Variables,Data Types ,Numbers,Strings,Booleans,Operators
+(Kalındı.)
+
+Yarınki boş zamanımda görüşmek üzere... 🙌

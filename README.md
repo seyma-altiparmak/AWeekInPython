@@ -21,7 +21,9 @@
     -> https://www.geeksforgeeks.org/__init__-in-python/
     -> https://www.udacity.com/blog/2021/11/__init__-in-python-an-overview.html
     -> https://realpython.com/python-super/
-    
+    -> https://www.mobilhanem.com/python-tupledemetler-ve-metotlari/ (tuple)
+
+
 # Day3
     Instructor = Battal Koc
     3. SQLite Database
