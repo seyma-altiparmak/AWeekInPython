@@ -1,16 +1,27 @@
-# This is a sample Python script.
+#3. Solution
 
-# Press Shift+F10 to execute it or replace it with your code.
-# Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
+#start
+liste = list()
+liste = []
+type(liste)
 
+#index
+liste = [0,5,6,8,10,15,22,26]
+liste[0] = -1
+print(liste)
 
-def print_hi(name):
-    # Use a breakpoint in the code line below to debug your script.
-    print(f'Hi, {name}')  # Press Ctrl+F8 to toggle the breakpoint.
+#method
+liste.append(20) # Append
+liste.count(0) # Count
+liste.clear() # Clear
+liste.extend([5,10,18,99]) #Extends
+liste.insert(3,44) # 3. -> 44
+liste.index(44) # Index
+liste.pop() # Pop
+liste.remove(44) #Remove 3
+liste.sort() #Sorted
 
-
-# Press the green button in the gutter to run the script.
-if __name__ == '__main__':
-    print_hi('PyCharm')
-
-# See PyCharm help at https://www.jetbrains.com/help/pycharm/
+#functions
+sorted(liste)
+min(liste)
+max(liste)
