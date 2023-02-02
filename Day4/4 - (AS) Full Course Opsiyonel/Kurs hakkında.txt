@@ -1,0 +1,8 @@
+Benim gözümden:
+*******************************************************************************
+Kurs python üzerine yoğunlaşmış bir kurs değildi ve opsiyonel olarak sunulmuştu.
+Ancak buna rağmen init len gibi şeyleri daha iyi anlamamı sağladı. 
+Bu konularda sıkıntı yaşayan herkese öneririm.
+Class yapısını çok net anlattı.
+Kısa ve özdü.
+*******************************************************************************
