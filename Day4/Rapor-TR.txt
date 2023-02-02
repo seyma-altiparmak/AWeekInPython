@@ -1,0 +1,11 @@
+GÜN 3:
+Bilgilendirme:
+Etsky kaldırılmış. Ekstra bir metod araştırmak gerekli...
+Rapor:
+Bugün whatsapp botu yazmayı anlayıp çalıştım.
+Benim gibi bir haftada python challenge tarzı bir şey yapan var mı diye bakınırken.
+Udemyde bir eğitim seti buldum onu izleyeceğim. Bakalım gittiğim yol doğru mu?
+syntax hakkında genel bir bilgim oldu hızlıca öncelikle oraları geçeceğim.
+hedeflerim tamamlanırsa bu raporun sonunda [TAMAMLANDI] yazacaktır. Saygılar.
+Battal Koç hocam paylaşmama izin verdi ona da sonsuz teşekkürler.
+Durum : [TAMAMLANMADI]
