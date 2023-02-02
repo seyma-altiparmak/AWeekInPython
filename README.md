@@ -34,7 +34,16 @@
 
 # Day4
     Instructor = Battal Koc
+    Instructor = Atıl Samancıoglu
+    Instructor = Ceyhun Ozdemir
+    The Course Links:
+    -> https://www.udemy.com/course/course-python/learn/lecture/20962212#announcements (New one. I suprised about same concept. :) )
+    ->https://www.udemy.com/course/yazilim-mulakatlari/learn/lecture/32465368#overview (We watched it before quick res.)
+    -> https://www.udemy.com/course/sfrdan-yazlm-muhendisi-olma-kursu/learn/lecture/19364472#content (We already goin on it.)
     4.WhatsApp Bots
+    4.AS -> Start,Anaconda(Win),Variables,Details,Collections,Dictionary,Set & Tuple, Conversion , Error Handling , Controllers , Loops , Functions , Classes , Scope
+    4.CO -> Variables , Data Types
+    First of all, I must say that I will not copy the codes of atil samancioglu or ceyhun ozdemir. I did not get permission from our teachers about this. It would not be correct for me to copy. Also, I don't think I will need to copy after the course I took with the battal coach and the articles I read. I will attach my own comments about the courses to a file of the document.
 # Day5
     Instructor = Battal Koc
     5.Instagram Bots

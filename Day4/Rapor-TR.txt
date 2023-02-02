@@ -4,7 +4,11 @@ Etsky kaldırılmış. Ekstra bir metod araştırmak gerekli...
 Rapor:
 Bugün whatsapp botu yazmayı anlayıp çalıştım.
 Benim gibi bir haftada python challenge tarzı bir şey yapan var mı diye bakınırken.
-Udemyde bir eğitim seti buldum onu izleyeceğim. Bakalım gittiğim yol doğru mu?
+Udemyde bir eğitim seti buldum ona başlayacağım. 1. günü tamamlayacağım.
+Atıl Samancıoğlunun eğitimini daha önce izlemiştim tekrar opsiyonel kısmını tekrar edeceğim.
+Kurslar:
+https://www.udemy.com/course/course-python/learn/lecture/20962212#announcements
+https://www.udemy.com/course/yazilim-mulakatlari/learn/lecture/32465368#overview
 syntax hakkında genel bir bilgim oldu hızlıca öncelikle oraları geçeceğim.
 hedeflerim tamamlanırsa bu raporun sonunda [TAMAMLANDI] yazacaktır. Saygılar.
 Battal Koç hocam paylaşmama izin verdi ona da sonsuz teşekkürler.
