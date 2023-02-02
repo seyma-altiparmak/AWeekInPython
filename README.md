@@ -27,6 +27,11 @@
 # Day3
     Instructor = Battal Koc
     3. SQLite Database
+    As of today, I strongly recommend the course : https://www.udemy.com/course/sfrdan-yazlm-muhendisi-olma-kursu/learn/lecture/19364472#content
+    Resources:
+    ->https://www.tutorialspoint.com/sqlite/sqlite_python.htm
+    -> for install : https://sqlitebrowser.org/
+
 # Day4
     Instructor = Battal Koc
     4.WhatsApp Bots

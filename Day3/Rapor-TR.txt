@@ -1,0 +1,17 @@
+GÜN 3: 
+Bugün gece yatmadan önce yarım saat ancak bakabildim. 
+Battal KOÇ hocamızın anlatımı SQLite üzerine oldukça etkiliydi. Onun anlatımının yanında,
+Bu sene Gözde YOLCU ÖZTEL'den aldığım DBMS derslerinin de faydası var.
+database'in esas mantığına az çok hakim olduğum için bu kadar hızlı kavrayabildim.
+Ancak dediğim gibi Hocamızın anlatımı fevkaledenin fevkinde ve müzik zevkine bayıldım.
+-sqlite - açma kapatma
+-sqlite - imleç oluşturma
+-sqlite - tablo oluşturma
+-sqlite - tablo tanımlı mı diye bakarak tablo oluşturma
+-sqlite - tabloya veri atama
+-sqlite - büyük tablolar
+-sqlite - data çağırma
+Yanlış anlaşılmasın hocamızın kodunu birebir almadım aksine videoyu adım adım izlerken:
+her bir adımı kavrayıp anlayıp sonrasında kendim yazdım. Sonsuz teşekkürler.
+son olarak buradaki kodları inceleyeceğim.
+https://www.tutorialspoint.com/sqlite/sqlite_python.htm

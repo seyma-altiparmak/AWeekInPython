@@ -1,0 +1,17 @@
+DAY 3:
+Today I could only look at it for half an hour before going to bed at night.
+The lecture of our teacher Battal KOÇ was very effective on SQLite. Besides his explanation,
+The DBMS courses I took from Gözde YOLCU ÖZTEL this year are also beneficial.
+I was able to grasp it so quickly because I had more or less a grasp of the basic logic of the database.
+However, as I said, our Hodja's narration was outstanding and I fell in love with his musical taste.
+-sqlite - on/off
+-sqlite - create cursor
+-sqlite - create table
+-sqlite - create table by checking if table is defined
+-sqlite - assign data to table
+-sqlite - large tables
+-sqlite - call data
+Don't get me wrong, I didn't get the exact code of our teacher, on the contrary, while watching the video step by step:
+I grasped and understood each step and then wrote it myself. Endless thanks.
+Finally, I will review the codes here.
+https://www.tutorialspoint.com/sqlite/sqlite_python.htm
