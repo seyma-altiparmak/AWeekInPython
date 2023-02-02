@@ -1,16 +1,39 @@
-# This is a sample Python script.
+#1. Solution:
+none = None
+string = str()
+integer = int()
+f = float()
+c = complex()
+b = bool()
+liste = list()
+t = tuple()
+k = set()
+s = dict()
 
-# Press Shift+F10 to execute it or replace it with your code.
-# Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
+###############
 
+#2. Solution:
+#None
+n = None
+#string
+s = 'String'
+s = "String"
+s = """String"""
+#integer
+i = 55
+#float
+fl = 3.5
+#complex
+j = complex(5,6)
+#boolean
+boolean = True
+#liste
+liste = []
+#tuple
+d = ()
+#set
+kum = {1,2,3}
+#dictionary
+d = {}
 
-def print_hi(name):
-    # Use a breakpoint in the code line below to debug your script.
-    print(f'Hi, {name}')  # Press Ctrl+F8 to toggle the breakpoint.
-
-
-# Press the green button in the gutter to run the script.
-if __name__ == '__main__':
-    print_hi('PyCharm')
-
-# See PyCharm help at https://www.jetbrains.com/help/pycharm/
+#TEST that we can do : type()

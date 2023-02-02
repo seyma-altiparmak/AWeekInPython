@@ -34,7 +34,7 @@
 
 # Day4
     Instructor = Battal Koc
-    Instructor = Atıl Samancıoglu
+    Instructor = Atil Samancioglu
     Instructor = Ceyhun Ozdemir
     The Course Links:
     -> https://www.udemy.com/course/course-python/learn/lecture/20962212#announcements (New one. I suprised about same concept. :) )
@@ -52,6 +52,7 @@
     5.Instagram Bots
     EXAMINE:
     -> https://github.com/atilsamancioglu/PythonCourse/blob/master/03-StringsAdvanced.ipynb (A.S. github)
+    -> https://github.com/ceyhunme/7-Gunde-Python-0-dan-100-e-PYT101 (C.O. github)
 # Day6
     Instructor = 
     a.
