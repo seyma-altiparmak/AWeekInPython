@@ -1,16 +1,18 @@
-# This is a sample Python script.
+#2. Solution
+#I dec. :
+l = "life"
+i = "is"
+t = "too"
+s = "short"
 
-# Press Shift+F10 to execute it or replace it with your code.
-# Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
+#one : 
+solution = "{first} {second} {third} {fourth}".format(first = l , second = i , third = t , fourth = s)
+print(solution)
 
+#two : 
+solution = "{} {} {} {}".format(l,i,t,s)
+print(solution)
 
-def print_hi(name):
-    # Use a breakpoint in the code line below to debug your script.
-    print(f'Hi, {name}')  # Press Ctrl+F8 to toggle the breakpoint.
-
-
-# Press the green button in the gutter to run the script.
-if __name__ == '__main__':
-    print_hi('PyCharm')
-
-# See PyCharm help at https://www.jetbrains.com/help/pycharm/
+#three :
+solution = f"{l} {i} {t} {s}"
+print(solution)
