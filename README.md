@@ -50,6 +50,8 @@
 # Day5
     Instructor = Battal Koc
     5.Instagram Bots
+    EXAMINE:
+    -> https://github.com/atilsamancioglu/PythonCourse/blob/master/03-StringsAdvanced.ipynb (A.S. github)
 # Day6
     Instructor = 
     a.
