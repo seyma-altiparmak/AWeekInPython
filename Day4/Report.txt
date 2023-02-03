@@ -1,0 +1,15 @@
+DAY 4:
+To inform:
+Etsky has been removed. An extra method needs to be researched...
+Report:
+Today I understood and tried to write a whatsapp bot.
+While looking to see if anyone has done something like a python challenge in a week like me.
+I found a training kit on Udemy and I'm going to start it. I will complete day 1.
+I have watched Atıl Samancıoğlu's training before, I will repeat the optional part again.
+Courses:
+https://www.udemy.com/course/course-python/learn/lecture/20962212#announcements
+https://www.udemy.com/course/yazilim-mulakatlari/learn/lecture/32465368#overview
+I have a general knowledge of syntax, I will quickly go over there first.
+if my goals are complete, it will say [COMPLETED] at the end of this report. Respects.
+My teacher Battal Koç allowed me to share, and I thank him endlessly.
+Status : [FINISHED]

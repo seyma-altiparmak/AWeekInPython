@@ -1,4 +1,4 @@
-GÜN 3:
+GÜN 4:
 Bilgilendirme:
 Etsky kaldırılmış. Ekstra bir metod araştırmak gerekli...
 Rapor:
@@ -12,4 +12,4 @@ https://www.udemy.com/course/yazilim-mulakatlari/learn/lecture/32465368#overview
 syntax hakkında genel bir bilgim oldu hızlıca öncelikle oraları geçeceğim.
 hedeflerim tamamlanırsa bu raporun sonunda [TAMAMLANDI] yazacaktır. Saygılar.
 Battal Koç hocam paylaşmama izin verdi ona da sonsuz teşekkürler.
-Durum : [TAMAMLANMADI]
+Durum : [TAMAMLANDI]
