@@ -9,7 +9,7 @@ Welcome
 2- Like
 3- Comment
 """)
-inputbot = input("Your selection:")
+inputbot:str = input("Your selection:")
 
 if inputbot=="1":
     name = input("User Name:")
@@ -23,7 +23,7 @@ elif inputbot == "3":
     control3 = 1
 
 #Firstly Log in:
-path = 'C:\\Users\seyma\Desktop\AWeekInPython\AWeekInPython\Day5\5\geckodriver-v0.32.1-win64'
+path = "C:\\Users\seyma\Desktop\AWeekInPython\AWeekInPython\Day5\5\geckodriver-v0.32.1-win64"
 browser = webdriver.Firefox(executable_path = path)
 browser.get('https://www.instagram.com/')
 user = browser.find_element_by_xpath("//input[contains(@name,'username')]")

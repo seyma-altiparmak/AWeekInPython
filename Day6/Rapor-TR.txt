@@ -1,0 +1,2 @@
+GÜN 6:
+Başlangıçta : Altıncı günde selenium'un çıkarttığı sorunlara yeter diyerek pycharmdan içine kütüphaneleri attım.
