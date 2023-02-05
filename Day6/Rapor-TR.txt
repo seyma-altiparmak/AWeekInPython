@@ -1,2 +1,7 @@
 GÜN 6:
-Başlangıçta : Altıncı günde selenium'un çıkarttığı sorunlara yeter diyerek pycharmdan içine kütüphaneleri attım.
+Başlangıçta : Altıncı günde selenium'un çıkarttığı sorunlara yeter diyerek :
+pycharmdan içine kütüphaneleri attım.
+Daha sonrasında C.O.'nun ikinci gününe baktım. Sonrasında seviyemi görmek için bir
+testlerini çözeyim dedim. Haftaların görevlerini tamamlayabiliyorum ama projeler için daha çok 
+yolum var bir hafta için geldiğim seviye gayet iyi diyerek usulca ayrılıyorum.
+
